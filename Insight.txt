@@ -1,0 +1,44 @@
+Passo a passo de inativação de empresas no domínio, de imediato vou começar com a Base 1, mas o processo será para as outras bases.
+
+Opção 1:
+
+[Após abrir o módulo de empresa:
+* Apertar Buscar listagem 
+* 3 tabs para chegar a coluna
+* Colocar cod da empresa (puxando pelo pandas)
+* Apertar botão Buscar
+* X na janela de empresas
+* 
+* 
+* 
+* ]
+
+Else (Error: Print da tela caso tenha erro em algum processo com o nome do código da empresa no .png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opção 2:
+
+[
+Após abrir o módulo de empresa:
+* Apertar botão de Editar
+* Escrever o número
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+]
