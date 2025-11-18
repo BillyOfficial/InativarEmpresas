@@ -23,3 +23,4 @@ def exemplo_basico():
         pyautogui.click(botao)
     else:
         print("Botão não encontrado.")
+
