@@ -1,2 +1,4 @@
 pyautogui
 pillow
+pandas 
+numpy
